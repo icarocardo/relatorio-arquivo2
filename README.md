@@ -99,8 +99,7 @@ O gráfico mostra a redução do tempo com o aumento do número de processos.
 8. Gráfico de Speedup
 
 O gráfico mostra o ganho de desempenho em relação à versão serial.
-![Descrição](nome-da-imagem.png)
-
+![speedup](speedup.png)
 
 Observação:
 
@@ -112,7 +111,7 @@ O obtido ficou abaixo do ideal
 
 O gráfico mostra a eficiência da paralelização.
 
-📌 (Inserir gráfico do Excel)
+![eficiencia](eficiencia.png)
 
 Observação:
 
