@@ -99,7 +99,7 @@ O gráfico mostra a redução do tempo com o aumento do número de processos.
 8. Gráfico de Speedup
 
 O gráfico mostra o ganho de desempenho em relação à versão serial.
-
+![Descrição](nome-da-imagem.png)
 
 
 Observação:
